@@ -1,6 +1,7 @@
 1. main
   * all NA, SA
   * ASIA - th, hk, tw
+  * country only style asia - sg
   * at(austria), cz, hr(croatia), dk(denmark), fi, gr, hu, is(iceland), no, pl(poland), se
 
 2. france-style
@@ -15,12 +16,11 @@
   * ho (netherlands)
   * po (portugal)
   * sw (switzerland)
+  * kr (seoul)
+  * cn (shanghai)
 
 4. rest of the asia
   * jp
-  * kr (seoul)
-  * cn (shanghai)
-  * sg (singapore)
 
 ```
   {
