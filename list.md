@@ -12,10 +12,10 @@
   * de (germany)
   * gb
   * ir (ireland)
-  * lx (luxembourg)
-  * ho (netherlands)
-  * po (portugal)
-  * sw (switzerland)
+  * lu (luxembourg)
+  * nl (netherlands)
+  * pt (portugal)
+  * ch (switzerland)
   * kr (seoul)
   * cn (shanghai)
 
