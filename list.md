@@ -1,13 +1,13 @@
-1. main
+* main
   * all NA, SA
   * ASIA - th, hk, tw
   * country only style asia - sg
   * at(austria), cz, hr(croatia), dk(denmark), fi, gr, hu, is(iceland), no, pl(poland), se
 
-2. france-style
+* france-style
   * fr, it, es(spain)
 
-3. via-michelin style
+* via-michelin style
   * be (belgium)
   * de (germany)
   * gb
@@ -19,7 +19,7 @@
   * kr (seoul)
   * cn (shanghai)
 
-4. rest of the asia
+* rest of the asia
   * jp
 
 ```
