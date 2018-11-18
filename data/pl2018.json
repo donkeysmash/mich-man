@@ -1,0 +1,28 @@
+[
+  {
+    "address": "ul. Agrykola 1, Warszawa, 00 460",
+    "country": "pl",
+    "cuisine": "Modern cuisine",
+    "latitude": "52.21708",
+    "longitude": "21.03768",
+    "name": "Atelier Amaro",
+    "neighborhood": "Warszawa",
+    "num_star": 1,
+    "price_range": "From PLN290.00",
+    "url": "https://guide.michelin.com/pl/atelier-amaro/restaurant",
+    "website": "http://www.atelieramaro.pl"
+  },
+  {
+    "address": "ul. Bielanska 12, Warszawa, 00-085",
+    "country": "pl",
+    "cuisine": "Modern cuisine",
+    "latitude": "52.244583",
+    "longitude": "21.005886",
+    "name": "Senses",
+    "neighborhood": "Warszawa",
+    "num_star": 1,
+    "price_range": "From PLN290.00",
+    "url": "https://guide.michelin.com/pl/senses/restaurant",
+    "website": "http://www.sensesrestaurant.pl"
+  }
+]

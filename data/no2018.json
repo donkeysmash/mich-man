@@ -1,0 +1,80 @@
+[
+  {
+    "address": "Frognerveien 12B, Oslo, 0263",
+    "country": "no",
+    "cuisine": "Modern cuisine",
+    "latitude": "59.91661",
+    "longitude": "10.71369",
+    "name": "Galt",
+    "neighborhood": "Oslo",
+    "num_star": 1,
+    "price_range": "From NOK530.00",
+    "url": "https://guide.michelin.com/no/galt/restaurant",
+    "website": "http://www.galt.no"
+  },
+  {
+    "address": "Maridalsveien 15, Oslo, 0178",
+    "country": "no",
+    "cuisine": "Scandinavian",
+    "latitude": "59.92355",
+    "longitude": "10.75106",
+    "name": "Kontrast",
+    "neighborhood": "Oslo",
+    "num_star": 1,
+    "price_range": "From NOK555.00",
+    "url": "https://guide.michelin.com/no/kontrast/restaurant",
+    "website": "http://www.restaurant-kontrast.no"
+  },
+  {
+    "address": "Steinkargata 10 (Breitorget), Stavanger, 4006",
+    "country": "no",
+    "cuisine": "Creative",
+    "latitude": "58.972088",
+    "longitude": "5.732877",
+    "name": "RE-NAA",
+    "neighborhood": "Stavanger",
+    "num_star": 1,
+    "price_range": "From NOK1,400.00",
+    "url": "https://guide.michelin.com/no/re-naa/restaurant",
+    "website": "http://www.restaurantrenaa.no"
+  },
+  {
+    "address": "Pedersgata\u00a038, Stavanger, 4013",
+    "country": "no",
+    "cuisine": "Sushi",
+    "latitude": "58.969936",
+    "longitude": "5.743313",
+    "name": "Sabi Omakase",
+    "neighborhood": "Stavanger",
+    "num_star": 1,
+    "price_range": "From NOK1,395.00",
+    "url": "https://guide.michelin.com/no/sabi-omakase/restaurant",
+    "website": "http://www.omakase.no"
+  },
+  {
+    "address": "R\u00e5dhusgata 11, Oslo, 0151",
+    "country": "no",
+    "cuisine": "Classic cuisine",
+    "latitude": "59.90937",
+    "longitude": "10.74305",
+    "name": "Statholdergaarden",
+    "neighborhood": "Oslo",
+    "num_star": 1,
+    "price_range": "From NOK925.00",
+    "url": "https://guide.michelin.com/no/statholdergaarden/restaurant",
+    "website": "http://www.statholdergaarden.no"
+  },
+  {
+    "address": "Schweigaardsgate 15B, Oslo, 0191",
+    "country": "no",
+    "cuisine": "Modern cuisine",
+    "latitude": "59.910477",
+    "longitude": "10.760408",
+    "name": "Maaemo",
+    "neighborhood": "Oslo",
+    "num_star": 3,
+    "price_range": "From NOK2,800.00",
+    "url": "https://guide.michelin.com/no/maaemo/restaurant",
+    "website": "http://www.maaemo.no"
+  }
+]

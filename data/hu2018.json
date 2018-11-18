@@ -1,0 +1,54 @@
+[
+  {
+    "address": "Sas utca 3, Budapest, 1051",
+    "country": "hu",
+    "cuisine": "Modern cuisine",
+    "latitude": "47.49953",
+    "longitude": "19.052391",
+    "name": "Borkonyha Winekitchen",
+    "neighborhood": "Budapest",
+    "num_star": 1,
+    "price_range": "From HUF8,250.00",
+    "url": "https://guide.michelin.com/hu/borkonyha-winekitchen/restaurant",
+    "website": "http://www.borkonyha.hu"
+  },
+  {
+    "address": "R\u00e1day utca 4, Budapest, 1092",
+    "country": "hu",
+    "cuisine": "Modern cuisine",
+    "latitude": "47.48873",
+    "longitude": "19.061779",
+    "name": "Costes",
+    "neighborhood": "Budapest",
+    "num_star": 1,
+    "price_range": "From HUF21,000.00",
+    "url": "https://guide.michelin.com/hu/costes/restaurant",
+    "website": "http://www.costes.hu"
+  },
+  {
+    "address": "Vigy\u00e1z\u00f3 Ferenc utca 5, Budapest, 1051",
+    "country": "hu",
+    "cuisine": "Modern cuisine",
+    "latitude": "47.50113",
+    "longitude": "19.048595",
+    "name": "Costes Downtown",
+    "neighborhood": "Budapest",
+    "num_star": 1,
+    "price_range": "From HUF6,900.00",
+    "url": "https://guide.michelin.com/hu/costes-downtown/restaurant",
+    "website": "http://www.costesdowntown.hu"
+  },
+  {
+    "address": "V\u00f6r\u00f6smarty t\u00e9r 7-8, Budapest, 1051",
+    "country": "hu",
+    "cuisine": "Modern cuisine",
+    "latitude": "47.49712",
+    "longitude": "19.05067",
+    "name": "Onyx",
+    "neighborhood": "Budapest",
+    "num_star": 2,
+    "price_range": "From HUF19,900.00",
+    "url": "https://guide.michelin.com/hu/onyx/restaurant",
+    "website": "http://www.onyxrestaurant.hu"
+  }
+]

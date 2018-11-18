@@ -1,0 +1,41 @@
+[
+  {
+    "address": "Sv. Dominika bb, Dubrovnik, 20000",
+    "country": "hr",
+    "cuisine": "Modern cuisine",
+    "latitude": "42.64141",
+    "longitude": "18.11145",
+    "name": "360\u00ba",
+    "neighborhood": "Dubrovnik",
+    "num_star": 1,
+    "price_range": "From HRK480.00",
+    "url": "https://guide.michelin.com/hr/360%C2%BA/restaurant",
+    "website": "http://www.360dubrovnik.com"
+  },
+  {
+    "address": "Montalbano 75, Rovinj, 52210",
+    "country": "hr",
+    "cuisine": "Creative",
+    "latitude": "45.08279",
+    "longitude": "13.631168",
+    "name": "Monte",
+    "neighborhood": "Rovinj",
+    "num_star": 1,
+    "price_range": "From HRK500.00",
+    "url": "https://guide.michelin.com/hr/monte/restaurant",
+    "website": "http://www.monte.hr"
+  },
+  {
+    "address": "Jurja Dalmatinca 1, \u0160ibenik, 22000",
+    "country": "hr",
+    "cuisine": "Modern cuisine",
+    "latitude": "43.73603",
+    "longitude": "15.888903",
+    "name": "Pelegrini",
+    "neighborhood": "\u0160ibenik",
+    "num_star": 1,
+    "price_range": "From HRK450.00",
+    "url": "https://guide.michelin.com/hr/pelegrini/restaurant",
+    "website": "http://www.pelegrini.hr"
+  }
+]

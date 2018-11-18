@@ -1,0 +1,67 @@
+[
+  {
+    "address": "24b Vasileos Georgiou, Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1, 152 33",
+    "country": "gr",
+    "cuisine": "Mediterranean cuisine",
+    "latitude": "38.02318",
+    "longitude": "23.79377",
+    "name": "Botrini's",
+    "neighborhood": "\u0391\u03b8\u03ae\u03bd\u03b1",
+    "num_star": 1,
+    "price_range": "From EUR69.00",
+    "url": "https://guide.michelin.com/gr/botrini-s/restaurant",
+    "website": "http://www.botrinis.com"
+  },
+  {
+    "address": "Onassis Cultural Centre (6th Floor), 107-109 Syngrou Ave C3, Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1, 11745",
+    "country": "gr",
+    "cuisine": "Modern cuisine",
+    "latitude": "37.958073",
+    "longitude": "23.719275",
+    "name": "Hytra",
+    "neighborhood": "Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1",
+    "num_star": 1,
+    "price_range": "From EUR67.00",
+    "url": "https://guide.michelin.com/gr/hytra/restaurant",
+    "website": "http://www.hytra.gr"
+  },
+  {
+    "address": "Akti Koumoundourou, 54-56\u00a0Mikrolimano Marina, Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1, 185 33",
+    "country": "gr",
+    "cuisine": "Seafood",
+    "latitude": "37.937378",
+    "longitude": "23.658577",
+    "name": "Varoulko Seaside",
+    "neighborhood": "Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1",
+    "num_star": 1,
+    "price_range": "From EUR42.00",
+    "url": "https://guide.michelin.com/gr/varoulko-seaside/restaurant",
+    "website": "http://www.varoulko.gr"
+  },
+  {
+    "address": "13 Paramythias St and Salaminos, Keramikos, Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1, 104 35",
+    "country": "gr",
+    "cuisine": "Creative",
+    "latitude": "37.98309",
+    "longitude": "23.71596",
+    "name": "Funky Gourmet",
+    "neighborhood": "\u0391\u03b8\u03ae\u03bd\u03b1",
+    "num_star": 2,
+    "price_range": "From EUR90.00",
+    "url": "https://guide.michelin.com/gr/funky-gourmet/restaurant",
+    "website": "http://www.funkygourmet.com"
+  },
+  {
+    "address": "5 Pyronos, off Varnava Sq, Pangrati, Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1, 116 36",
+    "country": "gr",
+    "cuisine": "French",
+    "latitude": "37.96525",
+    "longitude": "23.742971",
+    "name": "Spondi",
+    "neighborhood": "Ath\u00edna / \u0391\u03b8\u03b7\u03bd\u03b1",
+    "num_star": 2,
+    "price_range": "From EUR73.00",
+    "url": "https://guide.michelin.com/gr/spondi/restaurant",
+    "website": "http://www.spondi.gr"
+  }
+]

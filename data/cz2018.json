@@ -1,0 +1,28 @@
+[
+  {
+    "address": "U Milosrdn\u00fdch 12, Praha, 110 00",
+    "country": "cz",
+    "cuisine": "Modern cuisine",
+    "latitude": "50.0919",
+    "longitude": "14.42193",
+    "name": "Field",
+    "neighborhood": "Praha",
+    "num_star": 1,
+    "price_range": "From CZK1,160.00",
+    "url": "https://guide.michelin.com/cz/field/restaurant",
+    "website": "http://www.fieldrestaurant.cz"
+  },
+  {
+    "address": "Ha\u0161talsk\u00e1 18, Praha, 110 00",
+    "country": "cz",
+    "cuisine": "Modern cuisine",
+    "latitude": "50.09115",
+    "longitude": "14.42511",
+    "name": "La Degustation Boh\u00eame Bourgeoise",
+    "neighborhood": "Praha",
+    "num_star": 1,
+    "price_range": "From CZK3,450.00",
+    "url": "https://guide.michelin.com/cz/la-degustation-boheme-bourgeoise/restaurant",
+    "website": "http://www.ladegustation.cz"
+  }
+]

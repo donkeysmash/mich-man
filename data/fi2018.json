@@ -1,0 +1,67 @@
+[
+  {
+    "address": "Vironkatu 8, Helsingfors / Helsinki, 00170",
+    "country": "fi",
+    "cuisine": "Modern cuisine",
+    "latitude": "60.17236",
+    "longitude": "24.95648",
+    "name": "Ask",
+    "neighborhood": "Helsingfors",
+    "num_star": 1,
+    "price_range": "From EUR50.00",
+    "url": "https://guide.michelin.com/fi/ask/restaurant",
+    "website": "http://www.restaurantask.com"
+  },
+  {
+    "address": "Uudenmaankatu 9-11, Helsingfors / Helsinki, 00120",
+    "country": "fi",
+    "cuisine": "Modern cuisine",
+    "latitude": "60.164806",
+    "longitude": "24.941639",
+    "name": "Demo",
+    "neighborhood": "Helsingfors / Helsinki",
+    "num_star": 1,
+    "price_range": "From EUR60.00",
+    "url": "https://guide.michelin.com/fi/demo/restaurant",
+    "website": "http://www.restaurantdemo.fi"
+  },
+  {
+    "address": "Albertinkatu 36, Helsingfors / Helsinki, 00180",
+    "country": "fi",
+    "cuisine": "Finnish",
+    "latitude": "60.16981",
+    "longitude": "24.93813",
+    "name": "Gr\u00f6n",
+    "neighborhood": "Helsingfors",
+    "num_star": 1,
+    "price_range": "From EUR47.00",
+    "url": "https://guide.michelin.com/fi/gron/restaurant",
+    "website": "http://www.restaurantgron.com"
+  },
+  {
+    "address": "Pohjoisesplanadi 5, Helsingfors / Helsinki, 00170",
+    "country": "fi",
+    "cuisine": "Modern cuisine",
+    "latitude": "60.16616",
+    "longitude": "24.947704",
+    "name": "Olo",
+    "neighborhood": "Helsingfors",
+    "num_star": 1,
+    "price_range": "From EUR65.00",
+    "url": "https://guide.michelin.com/fi/olo/restaurant",
+    "website": "http://www.olo-ravintola.fi"
+  },
+  {
+    "address": "Huvilakatu 28A, Helsingfors / Helsinki, 00150",
+    "country": "fi",
+    "cuisine": "Modern cuisine",
+    "latitude": "60.157578",
+    "longitude": "24.94295",
+    "name": "Ora",
+    "neighborhood": "Helsingfors",
+    "num_star": 1,
+    "price_range": "From EUR85.00",
+    "url": "https://guide.michelin.com/fi/ora/restaurant",
+    "website": "http://www.orarestaurant.fi"
+  }
+]
