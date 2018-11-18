@@ -31,7 +31,6 @@ def scape_restaurant_detail_page(url, country):
   address_pieces = soup.find('div', {'class': 'field--name-field-address'}).find_all(text=True)
   address_pieces = filter(lambda x: x != ' ', address_pieces)
   address = ', '.join(address_pieces)
-  url = url
   website = safe_website(soup)
   coor = re.search(r'maps\.google\.com/\?q=([0-9.,-]+)', str(soup)).group(1).split(',')
 
@@ -72,7 +71,7 @@ def construct_restaurant_urls(country):
       soup = BeautifulSoup(response.text, 'html.parser')
       cards = soup.find('ul', {'class': 'poi-search-result'}).find_all('li', recursive=False)
       for card in cards:
-        results.append(f'{base_url(country)}/{card.a["href"]}')
+        results.append(f'{base_url(country)}{card.a["href"]}')
       print(len(cards))
       if len(cards) < 18:
         is_ended = True
