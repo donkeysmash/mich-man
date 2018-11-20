@@ -112,7 +112,6 @@ def visit_details(restaurants):
     restaurant['neighborhood'] = address_raw[-1]
     restaurant['price_range'] =  ' '.join(soup.find('div', {'class': 'datasheet-price'}).text.split())
     restaurant['website'] = safe_website(soup)
-    import pdb; pdb.set_trace()
     m = re.search(r'"latitude":"([0-9.-]+)"', str(soup))
     restaurant['latitude'] = m.group(1)
     m = re.search(r'"longitude":"([0-9.-]+)"', str(soup))
