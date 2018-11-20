@@ -4,15 +4,21 @@ import json
 from bs4 import BeautifulSoup
 
 country = 'jp'
+total_num_restaurants = 0
+current_scrape_count = 0
 
 def main():
+  global current_scrape_count
+  global total_num_restaurants
   base_urls = get_all_base_urls()
   urls = get_all_urls(base_urls)
   restaurants = []
   for url in urls:
     restaurants = restaurants + visit_list(url)
   print(f'collected and now visiting {len(restaurants)} restaurants')
+  total_num_restaurants = len(restaurants)
   for restaurant in restaurants:
+    current_scrape_count += 1
     scrape(restaurant)
   with open(f'{country}2018.json', 'w') as fp:
     json.dump(restaurants, fp, sort_keys=True, indent=2)
@@ -20,7 +26,10 @@ def main():
 
 
 def scrape(restaurant):
+  global current_scrape_count
+  global total_num_restaurants
   url = restaurant['url']
+  print(f'{current_scrape_count}/{total_num_restaurants} {restaurant["name"]} @ {url}')
   res = requests.get(concat_url(url, 'map/'))
   soup = BeautifulSoup(res.text, 'html.parser')
   info_cont = soup.find('div', {'id': 'rInfo'})
@@ -60,7 +69,7 @@ def visit_list(base_url):
       for restaurant_info in restaurants_list:
         cuisine_and_neighborhood = [x for x in restaurant_info.dd.text.split('\n') if len(x.strip()) > 0]
         restaurant = {
-          'name': restaurant_info.a.text,
+          'name': restaurant_info.find('a').find(recursive=False, text=True),
           'num_star': num_star,
           'url': concat_url(root_url, restaurant_info.a['href']),
           'neighborhood': cuisine_and_neighborhood[1].strip(),
@@ -68,6 +77,7 @@ def visit_list(base_url):
           'country': country,
           'region': region
         }
+        print(restaurant)
         result.append(restaurant)
       page_strings = soup.find('div', {'id': 'resultPager'}).var.text.split()
       last_page = int(page_strings[0].split('-')[1])
