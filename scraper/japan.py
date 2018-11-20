@@ -44,8 +44,8 @@ def scrape(restaurant):
   restaurant['website'] = website
   coords = re.search(r'maps\.google\.com/maps\?q=([0-9.-]+)%2C([0-9.-]+)', str(soup))
   if len(coords.groups()) == 2:
-    restaurant['latitude'] = coords[0]
-    restaurant['longitude'] = coords[1]
+    restaurant['latitude'] = coords.groups()[0]
+    restaurant['longitude'] = coords.groups()[1]
 
 
 def visit_list(base_url):
